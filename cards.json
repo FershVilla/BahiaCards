@@ -1,0 +1,19 @@
+{
+    "trajes": [
+        {
+            "precio": "₡ 23.000,00",
+            "descripción": "Dos piezas con estampado print",
+            "imagen": "/images/portfolio/tb1.png"
+        },
+        {
+            "precio": "₡ 23.000,00",
+            "descripción": "Dos piezas con estampado print",
+            "imagen": "/images/portfolio/tb1.png"
+        },
+        {
+            "precio": "₡ 23.000,00",
+            "descripción": "Dos piezas con estampado print",
+            "imagen": "/images/portfolio/tb1.png"
+        }
+    ]
+}
